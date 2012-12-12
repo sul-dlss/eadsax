@@ -11,13 +11,13 @@ module Eadsax
     element :materialspec
     element :note, :class => Note
     element :origination, :class => Origination
-    element :physdesc
+    element :physdesc, :class => Physdesc
     element :physloc
     element :repository
     element :unitdate
     element :unitid
-    element :unittitle
-
+    element :unittitle, :class => Unittitle
+    
   end
 end
 

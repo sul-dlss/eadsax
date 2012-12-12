@@ -40,7 +40,7 @@ module Eadsax
   autoload :Originalsloc, 'eadsax/originalsloc'
   autoload :Origination, "eadsax/origination"
   autoload :Otherfindaid, "eadsax/otherfindaid"
-#  autoload :Physdesc, "eadsax/physdesc"
+  autoload :Physdesc, "eadsax/physdesc"
   autoload :Phystech, 'eadsax/phystech'
   autoload :Prefercite, "eadsax/prefercite"
   autoload :Processinfo, "eadsax/processinfo"
@@ -59,6 +59,7 @@ module Eadsax
   autoload :Titlepage, 'eadsax/titlepage'
   autoload :Titleproper, "eadsax/titleproper"
   autoload :Titlestmt, "eadsax/titlestmt"
+  autoload :Unittitle, "eadsax/unittitle"
   autoload :Userestrict, "eadsax/userestrict"
 
   autoload :C01, 'eadsax/components'

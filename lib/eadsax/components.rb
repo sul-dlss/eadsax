@@ -19,7 +19,7 @@ module Eadsax
         element :head
         element :index, :class => Index
         elements :note, :as => :notes, :class => Note
-        element :odd, :class => Odd
+        elements :odd, :class => Odd
         element :originalsloc, :class => Originalsloc
         element :otherfindaid, :class => Otherfindaid
         element :phystech, :class => Phystech
