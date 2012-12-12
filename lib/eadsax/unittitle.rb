@@ -4,7 +4,7 @@ module Eadsax
     include SAXMachine
     value :raw
     elements :corpname
-    elements :geoname
+    elements :geogname
     elements :persname
   end
 end
