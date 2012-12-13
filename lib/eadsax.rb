@@ -59,7 +59,7 @@ module Eadsax
   autoload :Titlepage, 'eadsax/titlepage'
   autoload :Titleproper, "eadsax/titleproper"
   autoload :Titlestmt, "eadsax/titlestmt"
-  autoload :Unittitle, "eadsax/unittitle"
+  autoload :Unitdate, "eadsax/unitdate"
   autoload :Userestrict, "eadsax/userestrict"
 
   autoload :C01, 'eadsax/components'

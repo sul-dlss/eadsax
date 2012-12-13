@@ -14,7 +14,7 @@ module Eadsax
     element :physdesc, :class => Physdesc
     element :physloc
     element :repository
-    element :unitdate
+    element :unitdate, :class => Unitdate
     element :unitid
     element :unittitle
     
