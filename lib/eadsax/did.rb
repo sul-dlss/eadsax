@@ -16,7 +16,7 @@ module Eadsax
     element :repository
     element :unitdate
     element :unitid
-    element :unittitle, :class => Unittitle
+    element :unittitle
     
   end
 end
