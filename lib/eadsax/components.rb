@@ -26,7 +26,7 @@ module Eadsax
         element :prefercite, :class => Prefercite
         element :processinfo, :class => Processinfo
         element :relatedmaterial, :class => Relatedmaterial
-        element :scopecontent, :class => Scopecontent
+        elements :scopecontent, :class => Scopecontent
         element :separatedmaterial, :class => Separatedmaterial
         element :thead, :class => Thead
         element :userestrict, :class => Userestrict
